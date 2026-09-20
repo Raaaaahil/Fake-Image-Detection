@@ -36,13 +36,13 @@ Users can upload an image by selecting a file or using drag-and-drop.
 
 ### 2. Image Preview
 
-![Image Preview](docs/screenshots/02-image-preview.png)
+![Image Preview](docs/screenshots/02-ai-generated-result.png)
 
 The selected image is previewed before sending it for analysis.
 
 ### 3. Analysis Result
 
-![Analysis Result](docs/screenshots/03-analysis-result.png)
+![Analysis Result](docs/screenshots/03-real-image-result.png)
 
 The application displays the predicted class, confidence, and AI/Real probability scores.
 
