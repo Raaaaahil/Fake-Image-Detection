@@ -34,13 +34,13 @@ The following screenshots show the actual working web application.
 
 Users can upload an image by selecting a file or using drag-and-drop.
 
-### 2. Image Preview
+### 2. Fake Test Analysis Result
 
 ![Image Preview](docs/screenshots/02-ai-generated-result.png)
 
 The selected image is previewed before sending it for analysis.
 
-### 3. Analysis Result
+### 3. Real Test Analysis Result
 
 ![Analysis Result](docs/screenshots/03-real-image-result.png)
 
