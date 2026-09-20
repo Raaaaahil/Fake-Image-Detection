@@ -1,4 +1,4 @@
-# Fake Image Detection System
+# TruthLens-AI Fake Image Detection System
 
 ### XtraGrad Internship – Major Project
 
