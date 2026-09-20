@@ -24,30 +24,6 @@ The trained model is integrated into a **FastAPI backend** and a **React + TypeS
 
 ---
 
-## Live Interface Screenshots
-
-The following screenshots show the actual working web application.
-
-### 1. Home / Upload Page
-
-![Home / Upload Page](docs/screenshots/01-home-upload.png)
-
-Users can upload an image by selecting a file or using drag-and-drop.
-
-### 2. Fake Test Analysis Result
-
-![Image Preview](docs/screenshots/02-ai-generated-result.png)
-
-The selected image is previewed before sending it for analysis.
-
-### 3. Real Test Analysis Result
-
-![Analysis Result](docs/screenshots/03-real-image-result.png)
-
-The application displays the predicted class, confidence, and AI/Real probability scores.
-
----
-
 ## Key Features
 
 - AI-generated vs Real image classification
